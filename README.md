@@ -1,0 +1,2 @@
+camel-shutdown-test
+===================
